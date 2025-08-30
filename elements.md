@@ -44,6 +44,11 @@ nav-menu: true
 
 <hr class="major" />
 
+
+
+
+
+<!-- 
 <!-- Elements -->
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
@@ -409,3 +414,4 @@ print 'It took ' + i + ' iterations to sort the deck.';
 </section>
 
 </div>
+ -->
