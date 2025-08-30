@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Databricks
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Our deep experience with Databricks will help your data teams to deliver for your business'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
