@@ -2,6 +2,12 @@
 <section id="contact">
 	<div class="inner">
 		<section>
+			<form action="https://formsubmit.co/connor@kelvin-analytics.com" method="POST">
+				<input type="text" name="name" required>
+				<input type="email" name="email" required>
+				<textarea name="message" rows="6"></textarea>
+				<button type="submit">Send</button>
+			</form>
 			<form action="https://formspree.io/{{ site.email }}" method="POST">
 				<div class="field half first">
 					<label for="name">Name</label>
