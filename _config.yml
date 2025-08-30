@@ -1,6 +1,6 @@
 # site settings
 title: Kelvin Analytics
-subtitle: A data and AI consultancy based in Scotland
+subtitle: Powering your data teams
 email: contact@kelvin-analytics.com
 description: At Kelvin Analytics we believe in delivering fast, impactful results for out clients.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
