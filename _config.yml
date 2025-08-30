@@ -9,9 +9,9 @@ author: Connor Quinn
 street_address: 
 city: Glasgow
 state: 
-zip_code: 55555
+zip_code:
 country: United Kingdom
-phone: 
+phone: +44 141 432 0029
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
