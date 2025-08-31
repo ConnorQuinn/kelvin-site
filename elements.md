@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Training
-image: assets/images/pic01.jpg
+image: assets/images/mountains-540116_1920.jpg
 nav-menu: true
 ---
 
