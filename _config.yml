@@ -4,7 +4,7 @@ subtitle: Powering your data teams
 email: contact@kelvin-analytics.com
 description: At Kelvin Analytics we believe in delivering fast, impactful results for out clients.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: "https://kelvin-analytics.com" # the base hostname & protocol for your site
 author: Connor Quinn
 street_address: 
 city: Glasgow
