@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Data Strategy
+description: "We will help you to realise value from your data"
 image: assets/images/mountains-192987_1280.jpg
 nav-menu: true
 ---

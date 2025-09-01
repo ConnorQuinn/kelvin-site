@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Training
+description: 'We offer bespoke training tailored to your needs.'
 image: assets/images/mountains-540116_1920.jpg
 nav-menu: true
 ---
