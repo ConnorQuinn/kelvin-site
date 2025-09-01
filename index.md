@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Get in touch and we can have a chat about your Data and AI journey. We're here to help you succeed.
+Get in touch to have a chat about your Data and AI journey. We're here to help you succeed.
