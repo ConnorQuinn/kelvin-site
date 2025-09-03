@@ -1,5 +1,5 @@
 ---
-title: Databricks
+title: Unlock the full value of Databricks
 layout: landing
 description: 'Our deep experience with Databricks will help your data teams to deliver for your business'
 image: assets/images/pic07.jpg
@@ -30,14 +30,20 @@ nav-menu: true
 		</a>
 		<div class="content">
 			<div class="inner">
-				<header class="major">
-					<h3>Orci maecenas</h3>
-				</header>
-				<p>3_Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
+			<header class="major">
+				<h3>How we help you succeed with Databricks</h3>
+			</header>
+			<p>We make Databricks work for your business — faster, safer, and at lower cost:</p>
+			<ul>
+				<li><strong>Optimised setup</strong> – cloud integration, security, and architecture designed for scale</li>
+				<li><strong>Reliable pipelines</strong> – data ingestion and transformation with Delta Live Tables and Autoloader</li>
+				<li><strong>Production-ready machine learning</strong> – model deployment, MLOps, and Feature Store governance</li>
+				<li><strong>Enablement</strong> – hands-on training and knowledge transfer so your team grows with the platform</li>
+			</ul>
+			<ul class="actions">
+				<li><a href="generic.html" class="button">Learn more</a></li>
+			</ul>
+		</div>
 		</div>
 	</section>
 	<section>
@@ -47,9 +53,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>CICD and asset bundles</h3>
 				</header>
-				<p>4_Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>CICD and best practices.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -63,9 +69,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Platform review</h3>
 				</header>
-				<p>5_Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Scalable, resilient, cost-effective. Enable faster time to insight</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
