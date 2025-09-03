@@ -10,6 +10,7 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
+<!-- 
 <section id="one">
 	<div class="inner">
 		<header class="major">
@@ -18,6 +19,8 @@ nav-menu: true
 		<p>2_Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
 	</div>
 </section>
+-->
+
 
 <!-- Two -->
 <section id="two" class="spotlights">
@@ -72,6 +75,7 @@ nav-menu: true
 </section>
 
 <!-- Three -->
+<!--
 <section id="three">
 	<div class="inner">
 		<header class="major">
@@ -83,5 +87,6 @@ nav-menu: true
 		</ul>
 	</div>
 </section>
+-->
 
 </div>

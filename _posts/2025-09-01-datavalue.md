@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Value Proposition
+title: "Data Value Proposition"
 description: Streamline your efforts
 image: assets/images/mountains-192987_1280.jpg
 ---
