@@ -37,12 +37,15 @@ nav-menu: true
 
 
 
-<section>
-	<a href="generic.html" class="image">
-		<img src="{% link assets/images/pic09.jpg %}" alt="Training for Data Engineers" data-position="center center" />
-	</a>
-	<div class="content">
-		<div class="inner">
+
+<!-- Two -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
 			<header class="major">
 				<h3>Training for Data Engineers</h3>
 			</header>
@@ -56,16 +59,15 @@ nav-menu: true
 				<li><a href="generic.html" class="button">Learn more</a></li>
 			</ul>
 		</div>
-	</div>
-</section>
-
-<section>
-	<a href="generic.html" class="image">
-		<img src="{% link assets/images/pic05.jpg %}" alt="Training for Data Scientists" data-position="center center" />
-	</a>
-	<div class="content">
-		<div class="inner">
-			<header class="major">
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
 				<h3>Training for Data Scientists</h3>
 			</header>
 			<p>Design and deploy ML models using adaptable, reusable templates:</p>
@@ -77,17 +79,19 @@ nav-menu: true
 			<ul class="actions">
 				<li><a href="generic.html" class="button">Learn more</a></li>
 			</ul>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
 		</div>
-	</div>
-</section>
-
-<section>
-	<a href="generic.html" class="image">
-		<img src="{% link assets/images/pic10.jpg %}" alt="Training for Data Leaders" data-position="center center" />
-	</a>
-	<div class="content">
-		<div class="inner">
-			<header class="major">
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
 				<h3>Training for Data Leaders</h3>
 			</header>
 			<p>Learn how to identify and align business value with data initiatives:</p>
@@ -99,9 +103,11 @@ nav-menu: true
 			<ul class="actions">
 				<li><a href="generic.html" class="button">Learn more</a></li>
 			</ul>
+			</div>
 		</div>
-	</div>
+	</section>
 </section>
+
 
 
 
