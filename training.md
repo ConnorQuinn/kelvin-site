@@ -55,9 +55,6 @@ nav-menu: true
 				<li><strong>Governed data</strong> – manage access and lineage with Unity Catalog</li>
 				<li><strong>Automation & orchestration</strong> – optimise workflows and reduce manual overhead</li>
 			</ul>
-			<ul class="actions">
-				<li><a href="generic.html" class="button">Learn more</a></li>
-			</ul>
 		</div>
 		</div>
 	</section>
@@ -76,12 +73,6 @@ nav-menu: true
 				<li><strong>Reusable features</strong> – access governed data with the Feature Store</li>
 				<li><strong>Deployment confidence</strong> – move models from notebooks to production endpoints</li>
 			</ul>
-			<ul class="actions">
-				<li><a href="generic.html" class="button">Learn more</a></li>
-			</ul>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
@@ -101,7 +92,7 @@ nav-menu: true
 				<li><strong>Value delivery</strong> – measure impact and prioritise the right opportunities</li>
 			</ul>
 			<ul class="actions">
-				<li><a href="generic.html" class="button">Learn more</a></li>
+				<li><a href="#contact" class="button">Are you ready to upskill your teams?</a></li>
 			</ul>
 			</div>
 		</div>
