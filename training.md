@@ -39,7 +39,7 @@ nav-menu: true
 
 <section>
 	<a href="generic.html" class="image">
-		<img src="{% link assets/images/training-engineers.jpg %}" alt="Training for Data Engineers" data-position="center center" />
+		<img src="{% link assets/images/pic09.jpg %}" alt="Training for Data Engineers" data-position="center center" />
 	</a>
 	<div class="content">
 		<div class="inner">
@@ -61,7 +61,7 @@ nav-menu: true
 
 <section>
 	<a href="generic.html" class="image">
-		<img src="{% link assets/images/training-scientists.jpg %}" alt="Training for Data Scientists" data-position="center center" />
+		<img src="{% link assets/images/pic05.jpg %}" alt="Training for Data Scientists" data-position="center center" />
 	</a>
 	<div class="content">
 		<div class="inner">
@@ -83,7 +83,7 @@ nav-menu: true
 
 <section>
 	<a href="generic.html" class="image">
-		<img src="{% link assets/images/training-leaders.jpg %}" alt="Training for Data Leaders" data-position="center center" />
+		<img src="{% link assets/images/pic10.jpg %}" alt="Training for Data Leaders" data-position="center center" />
 	</a>
 	<div class="content">
 		<div class="inner">
