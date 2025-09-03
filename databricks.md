@@ -1,7 +1,7 @@
 ---
 title: Unlock the full value of Databricks
 layout: landing
-description: 'Our deep experience with Databricks will help your data teams to deliver for your business'
+description: 
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -31,9 +31,8 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 			<header class="major">
-				<h3>How we help you succeed with Databricks</h3>
+				<h3>We make Databricks work for your business — faster, safer, and at lower cost:</h3>
 			</header>
-			<p>We make Databricks work for your business — faster, safer, and at lower cost:</p>
 			<ul>
 				<li><strong>Optimised setup</strong> – cloud integration, security, and architecture designed for scale</li>
 				<li><strong>Reliable pipelines</strong> – data ingestion and transformation with Delta Live Tables and Autoloader</li>
