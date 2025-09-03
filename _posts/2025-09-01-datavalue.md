@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Data Value Proposition"
+title: "How to realise Data Value"
 description: Streamline your efforts
 image: assets/images/mountains-192987_1280.jpg
 ---
-
-# Data Value
 
 Managing data is complex and challenging. Often the technical diffulties distact our focus from the real goal of data - driving value for the business. Too often we encounter data teams who are working flat out to deliver data, but with unsatified stakeholders. 
 
