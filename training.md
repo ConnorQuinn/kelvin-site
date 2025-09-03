@@ -16,7 +16,9 @@ nav-menu: true
 			<h1>Training</h1>
 		</header>
 
+
 <!-- Content -->
+<!--
 <h2 id="content">We offer bespoke training packages tailored to your needs.</h2>
 <p></p>
 <div class="row">
@@ -33,7 +35,7 @@ nav-menu: true
 		<p>How to identify and align business value with data activities.</p>
 	</div>
 </div>
-
+-->
 
 
 
