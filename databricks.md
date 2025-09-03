@@ -52,9 +52,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>CICD and asset bundles</h3>
+					<h3>Production-ready machine learning</h3>
 				</header>
-				<p>CICD and best practices.</p>
+				<p>From MLflow tracking to Feature Store governance, we help you deploy and manage machine learning models with full MLOps practices — reliable, repeatable, and governed.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -68,9 +68,14 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Platform review</h3>
+					<h3>Platform and architecture review</h3>
 				</header>
-				<p>Scalable, resilient, cost-effective. Enable faster time to insight</p>
+				<p>We provide a comprehensive review of your existing Databricks environment to identify risks, inefficiencies, and opportunities for improvement:</p>
+				<ul>
+				<li><strong>Architecture & Security</strong> – assess workspace design, identity integration, and access controls</li>
+				<li><strong>Data & Pipeline Health</strong> – evaluate Delta tables, workflows, and resource efficiency</li>
+				<li><strong>Governance & Best Practices</strong> – check Unity Catalog setup, compliance, and MLOps readiness</li>
+				</ul>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
