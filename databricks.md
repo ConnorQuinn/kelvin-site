@@ -55,6 +55,11 @@ nav-menu: true
 					<h3>Production-ready machine learning</h3>
 				</header>
 				<p>From MLflow tracking to Feature Store governance, we help you deploy and manage machine learning models with full MLOps practices — reliable, repeatable, and governed.</p>
+				<ul>
+				<li><strong>Deploy models with confidence</strong> – take models from notebooks into production with MLflow tracking, versioning, and serving</li>
+				<li><strong>Streamline feature management</strong> – build and share reusable features with the Feature Store, fully governed in Unity Catalog</li>
+				<li><strong>Establish MLOps best practices</strong> – automate training, testing, and deployment pipelines to ensure repeatability and compliance</li>
+				</ul>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
