@@ -5,7 +5,7 @@ description: Streamline your efforts
 image: assets/images/mountains-192987_1280.jpg
 author: Connor Quinn
 categories: [databricks, data value, data products, governance]
-permalink: /dataproducts/
+permalink: /data-products/
 related_posts:
   - /datavalue/
 ---
