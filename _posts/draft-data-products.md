@@ -20,3 +20,5 @@ A common pitfall when building data products is to skip the step of identifying 
 This is a mistake. 
 
 The result of this omission will be that data teams make well-intentioned but poorly informed decisions about the data, while the business becomes increasingly removed from the data. 
+
+Link to data_strategy.html
