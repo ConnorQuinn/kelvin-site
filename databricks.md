@@ -5,6 +5,8 @@ description:
 image: assets/images/pic07.jpg
 permalink: /databricks/
 nav-menu: true
+related_posts:
+  - /mlops/
 ---
 
 <!-- Main -->

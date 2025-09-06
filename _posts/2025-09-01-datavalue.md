@@ -6,6 +6,8 @@ image: assets/images/mountains-192987_1280.jpg
 author: Connor Quinn
 categories: [databricks, data value, data products, business value]
 permalink: /datavalue/
+related_posts:
+  - /data-strategy/
 ---
 
 Your business stakeholders don't care about your data pipelines. They just want to succeed. Data value propositions ensure that the hard work of data teams actually drives success. 
