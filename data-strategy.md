@@ -4,7 +4,7 @@ title: Data Strategy
 description: "Unlock the value of your data"
 image: assets/images/mountains-192987_1280.jpg
 nav-menu: true
-permalink: /data-strategy/
+permalink: /datastrategy/
 related_posts:
   - /datavalue/
 ---
