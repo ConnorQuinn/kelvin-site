@@ -26,4 +26,4 @@ Once we have a clear picture of how the data would be used, we can refine and pr
 
 
 If you want support to get your data roadmap tighly aligned with your business users then
-<a href="#contact" class="button">get in touch for a chat</a> to see how we can help.
+[get in touch for a chat](#contact) to see how we can help.
