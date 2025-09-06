@@ -24,8 +24,8 @@
 		</header>
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
 		<p>
-      		{% if post.author %}{{ post.author }}{% endif %}
-      		{% if post.date %}&nbsp;— {{ post.date | date: "%B %e, %Y" }}{% endif %}
+      		{% if page.author %}{{ page.author }}{% endif %}
+      		{% if page.date %}&nbsp;— {{ page.date | date: "%B %e, %Y" }}{% endif %}
     	</p>
 		{{ content }}
 		{% if page.related_posts %} {% include related.html %} {% endif %}
