@@ -7,6 +7,7 @@ nav-menu: true
 permalink: /data-strategy/
 related_posts:
   - /datavalue/
+  - /data-products/
 ---
 
 Turning data into real business value is hard. Most organisations already have plenty of tools and mountains of data, but the value leaks through unclear ownership, scattered systems, weak data quality, and dashboards that don’t tie to decisions. If a metric can’t influence a choice or a process, it’s just a cost to the business.
