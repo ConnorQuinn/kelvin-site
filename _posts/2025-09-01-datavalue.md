@@ -7,7 +7,7 @@ author: Connor Quinn
 categories: [databricks, data value, data products, business value]
 permalink: /datavalue/
 related_posts:
-  - /datastrategy/
+  - /data-strategy/
   - /mlops/
 ---
 
