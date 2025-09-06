@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Data Strategy
 description: "Unlock the value of your data"
 image: assets/images/mountains-192987_1280.jpg
