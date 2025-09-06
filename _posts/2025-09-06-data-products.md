@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The benefits of data product thinking"
+title: "The Benefits Of Data Product Thinking"
 description: Streamline your efforts
 image: assets/images/mountains-192987_1280.jpg
 author: Connor Quinn
