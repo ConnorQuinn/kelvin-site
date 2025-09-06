@@ -9,6 +9,7 @@ permalink: /datavalue/
 related_posts:
   - /data-strategy/
   - /mlops/
+  - /dataproducts/
 ---
 
 Your business stakeholders don't care about your data pipelines. They just want to succeed. Data value propositions ensure that the hard work of data teams actually drives success. 

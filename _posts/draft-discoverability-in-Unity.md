@@ -13,3 +13,6 @@ related_posts:
 Link to Data products
 
 Link to data strategy.html
+
+
+[get in touch for a chat](#contact)
