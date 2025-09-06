@@ -1,44 +1,16 @@
-{% if page.related_posts and page.related_posts.size > 0 %}
-  {%- assign items = "" | split: "" -%}
-
-  {%- for ref in page.related_posts -%}
-    {%- comment -%} Normalize the reference to a URL-like key {%- endcomment -%}
-    {%- assign key = ref | strip -%}
-    {%- unless key contains '/' -%}
-      {%- assign key = '/' | append: key | append: '/' -%}
-    {%- endunless -%}
-
-    {%- comment -%} Try pages first (permalink, then url, plus index.html variants) {%- endcomment -%}
-    {%- assign target = site.pages | where: "permalink", key | first -%}
-    {%- if target == nil -%}{%- assign target = site.pages | where: "url", key | first -%}{%- endif -%}
-    {%- if target == nil -%}{%- assign target = site.pages | where: "url", key | append: "index.html" | first -%}{%- endif -%}
-    {%- if target == nil and key endswith: "/" -%}
-      {%- assign trimmed = key | replace: '/',' ' | strip | replace: ' ','/' -%}
-      {%- assign target = site.pages | where: "url", trimmed | first -%}
-    {%- endif -%}
-
-    {%- comment -%} Then try posts (permalink, then url) {%- endcomment -%}
-    {%- if target == nil -%}{%- assign target = site.posts | where: "permalink", key | first -%}{%- endif -%}
-    {%- if target == nil -%}{%- assign target = site.posts | where: "url", key | first -%}{%- endif -%}
-
-    {%- if target -%}
-      {%- assign items = items | push: target -%}
-    {%- endif -%}
-  {%- endfor -%}
-
-  {%- if items.size > 0 -%}
-  <div class="related-posts">
-    <h2>Related Reading</h2>
-    <ul>
-      {%- for it in items -%}
-        <li>
-          <a href="{{ it.url | relative_url }}">{{ it.title }}</a>
-          {%- if it.date -%}
-            <span class="date">{{ it.date | date: "%B %e, %Y" }}</span>
-          {%- endif -%}
-        </li>
-      {%- endfor -%}
-    </ul>
-  </div>
-  {%- endif -%}
+{% if page.related_posts %}
+<div class="related-posts">
+  <h2>Related Reading</h2>
+  <ul>
+  {% for slug in page.related_posts %}
+    {% assign post = site.posts | where_exp: "p", "p.url contains slug" | first %}
+    {% if post %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <span class="date">{{ post.date | date: "%B %e, %Y" }}</span>
+      </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</div>
 {% endif %}
