@@ -1,0 +1,16 @@
+{% if page.related_posts %}
+<div class="related-posts">
+  <h2>Related Reading</h2>
+  <ul>
+  {% for slug in page.related_posts %}
+    {% assign post = site.posts | where_exp: "p", "p.url contains slug" | first %}
+    {% if post %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <span class="date">{{ post.date | date: "%B %e, %Y" }}</span>
+      </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</div>
+{% endif %}

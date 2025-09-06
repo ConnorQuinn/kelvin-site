@@ -4,6 +4,7 @@ title: Training
 description: 'Bespoke training tailored to your needs'
 image: assets/images/mountains-540116_1920.jpg
 nav-menu: true
+permalink: /training/
 ---
 
 <!-- Main -->
