@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Help your business to succeed"
+title: "Data value propositions help your business succeed"
 description: Use data value propositions to align data delivery with the needs of the business.
 image: assets/images/mountains-192987_1280.jpg
 author: Connor Quinn
@@ -13,7 +13,7 @@ Managing data is complex and challenging. As data teams, the technical challenge
 
 One of the key tools we use in Kelvin Analytics are **data value propositions**. A data value proposition is a clear and concise statement that communicates how this data will bring value to the business. 
 
-To generate a set of data value propositions, we run a sequence of structured workshops with business teams to understand what decisions they need to make and how data could inform these decisions. We help the users of the data to articulate the value of data in a way that data teams can understand. For example 
+To generate a set of data value propositions, we run a sequence of structured workshops with business teams to understand what decisions they need to make and how data could inform these decisions. We help the users of the data to articulate the value of data in a way that data teams can understand. For example:
 > By segmenting customers based on their likelihood of making repeat purchases, we can target our marketing more effectively.
 
 These propositions provide a guiding star for data teams who are swamped with complexity and competing demands. 
