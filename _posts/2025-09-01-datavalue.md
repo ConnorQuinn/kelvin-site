@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Data value propositions help your business succeed"
+title: "Data Value Propositions Help Your Business Succeed"
 description: Use data value propositions to align data delivery with the needs of the business.
 image: assets/images/mountains-192987_1280.jpg
 author: Connor Quinn

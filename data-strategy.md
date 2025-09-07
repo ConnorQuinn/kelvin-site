@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Strategy
-description: "Unlock the value of your data"
+description: "Unlock The Value Of Your Data"
 image: assets/images/mountains-192987_1280.jpg
 nav-menu: true
 permalink: /data-strategy/

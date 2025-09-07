@@ -1,5 +1,5 @@
 ---
-title: Unlock the full value of Databricks
+title: Unlock The Full Value Of Databricks
 layout: landing
 description: 
 image: assets/images/pic07.jpg
