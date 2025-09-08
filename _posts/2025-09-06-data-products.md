@@ -29,10 +29,6 @@ The data product owner should sit between the business and the data teams, guidi
 One final key aspect of the role is knowing when to retire a data product. By shifting to a data product mentality means that we should have clear vision of how well the product is being used by the business. When the product stops justifying its existence, the product owner should decide to turn it off. Finally your data can have a lifecycle where the burden does not only ever increase.
 
 
+[Learn more about how we can support your data strategy]({{ '/data-strategy/' | relative_url }})
 
-
-
-
-Link to data_strategy.html
-
-[Right data at the right time, and in the right format](https://www.databricks.com/blog/building-high-quality-and-trusted-data-products-databricks).
+Check out this excellent blog post: [Building high quality data products](https://www.databricks.com/blog/building-high-quality-and-trusted-data-products-databricks).
